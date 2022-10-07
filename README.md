@@ -28,5 +28,5 @@
 
 14. data input memiliki banyak kolom. Kita dapat meilih sebagian dari kolom asli untu, di export. Pilih bidang yang akan di export. Klik Deselect All dan centang kolom name dan pop_max lalu klik OK (*Gambar 15).
 
-15. Selanjutnya kita dapat melihat hasilnya seperti pada gambar (*Gambar 16).
+15. Selanjutnya kita dapat melihat hasilnya seperti pada gambar (*Gambar 16*).
 
